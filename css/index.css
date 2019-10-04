@@ -160,6 +160,9 @@ p {
     line-height: 1.4;
 }
 
+
+/* -----------------------------^reset^----------------------------------- */
+
 header {
     display: flex;
     justify-content: space-evenly;
@@ -179,9 +182,73 @@ header a {
     padding: 20px 30px 30px 30px;
 }
 
+.about {
+    margin: -10px 20px 20px 0px;
+    padding: 0 0 20px 20px;
+    width: 100%;
+    border-bottom: 1px dashed black;
+}
+
 .container {
     width: 800px;
     margin: 0 auto;
+}
+
+.strategyTop {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.strategyTop1 {
+    padding: 15px;
+    border-bottom: 1px dashed black;
+    width: 49%;
+}
+
+.strategyTop1 img {
+    padding-bottom: 10px;
+}
+
+.strategyTop2 {
+    padding: 15px;
+    border-bottom: 1px dashed black;
+    width: 49%;
+}
+
+.strategyTop2 img {
+    padding-bottom: 10px;
+}
+
+.strategyBottom {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.strategyBottom1 {
+    padding: 15px;
+    border-bottom: 1px dashed black;
+    width: 49%;
+}
+
+.strategyBottom1 img {
+    padding-bottom: 10px;
+}
+
+.strategyBottom2 {
+    padding: 15px;
+    border-bottom: 1px dashed black;
+    width: 49%;
+}
+
+.strategyBottom2 img {
+    padding-bottom: 10px;
+}
+
+.end {
+    margin: 30px;
+    padding-top: 20px;
 }
 
 .top-content {
