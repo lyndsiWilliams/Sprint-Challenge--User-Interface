@@ -210,6 +210,20 @@ header a {
     padding-bottom: 10px;
 }
 
+.strategyTop1 a {
+    display: flex;
+    justify-content: center;
+    width: 38%;
+    color: black;
+    background-color: white;
+    font-size: 16px;
+    padding: 10px;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 20px 0 10px 0;
+}
+
 .strategyTop2 {
     padding: 15px;
     border-bottom: 1px dashed black;
@@ -218,6 +232,20 @@ header a {
 
 .strategyTop2 img {
     padding-bottom: 10px;
+}
+
+.strategyTop2 a {
+    display: flex;
+    justify-content: center;
+    width: 38%;
+    color: black;
+    background-color: white;
+    font-size: 16px;
+    padding: 10px;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 20px 0 10px 0;
 }
 
 .strategyBottom {
@@ -236,6 +264,20 @@ header a {
     padding-bottom: 10px;
 }
 
+.strategyBottom1 a {
+    display: flex;
+    justify-content: center;
+    width: 38%;
+    color: black;
+    background-color: white;
+    font-size: 16px;
+    padding: 10px;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 20px 0 10px 0;
+}
+
 .strategyBottom2 {
     padding: 15px;
     border-bottom: 1px dashed black;
@@ -246,9 +288,23 @@ header a {
     padding-bottom: 10px;
 }
 
+.strategyBottom2 a {
+    display: flex;
+    justify-content: center;
+    width: 38%;
+    color: black;
+    background-color: white;
+    font-size: 16px;
+    padding: 10px;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 20px 0 10px 0;
+}
+
 .end {
     margin: 30px;
-    padding-top: 20px;
+    padding: 20px 0 10px 0;
 }
 
 .top-content {
@@ -284,7 +340,7 @@ header a {
 .middle-content .boxes .box1 {
     width: 12.5%;
     height: 100px;
-    background: #008080;
+    background: teal;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -295,7 +351,7 @@ header a {
 .middle-content .boxes .box2 {
     width: 12.5%;
     height: 100px;
-    background: #FFD700;
+    background: gold;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -306,7 +362,7 @@ header a {
 .middle-content .boxes .box3 {
     width: 12.5%;
     height: 100px;
-    background: #5F9EA0;
+    background: cadetblue;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -317,7 +373,7 @@ header a {
 .middle-content .boxes .box4 {
     width: 12.5%;
     height: 100px;
-    background: #FF7F50;
+    background: coral;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -328,7 +384,7 @@ header a {
 .middle-content .boxes .box5 {
     width: 12.5%;
     height: 100px;
-    background: #DC143C;
+    background: crimson;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -339,7 +395,7 @@ header a {
 .middle-content .boxes .box6 {
     width: 12.5%;
     height: 100px;
-    background: #228B22;
+    background: forestgreen;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -350,7 +406,7 @@ header a {
 .middle-content .boxes .box7 {
     width: 12.5%;
     height: 100px;
-    background: #9932CC;
+    background: darkorchid;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -361,7 +417,7 @@ header a {
 .middle-content .boxes .box8 {
     width: 12.5%;
     height: 100px;
-    background: #FF69B4;
+    background: hotpink;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -372,7 +428,7 @@ header a {
 .middle-content .boxes .box9 {
     width: 12.5%;
     height: 100px;
-    background: #4B0082;
+    background: indigo;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -383,7 +439,7 @@ header a {
 .middle-content .boxes .box10 {
     width: 12.5%;
     height: 100px;
-    background: #1E90FF;
+    background: dodgerblue;
     margin: 20px 2.5%;
     color: white;
     display: flex;
